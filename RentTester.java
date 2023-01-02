@@ -1,5 +1,5 @@
 /*
- * Created by: Adir Buskila
+ * Created by:
  * required Classes: Date, Car, Rent
  * if you find any bugs at the test please notify me :)
  */
