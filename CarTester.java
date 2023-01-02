@@ -1,6 +1,6 @@
 
 /*
- * Created by: Adir Buskila
+ * Created by:
  * required Class: Car
  * if you find any bugs at the test please notify me :)
  */
